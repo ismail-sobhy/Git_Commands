@@ -1,0 +1,30 @@
+Here is the translation of your questions into English:
+- What are the benefits of Git and GitHub, and what is the difference between them?
+- How do you install Git
+- How do you get Git help?
+- What are the types of config in Git, what is the difference between them, and when should I use settings for all projects on the machine versus when should I specify settings for each project?
+- How do you set an email and name in each of them? How do you modify and delete everything mentioned above? How do you know the source of the configuration files for each setting?
+- How do you convert a regular folder into a working area
+- How do you move files from the working area to the staging area and vice versa? How do you add a single file, multiple files, all files, and modified files? How do you reject certain files? How do you keep track of specific files and folders, and does Git track empty folders?
+- How do you move files from the staging area to the local repository?
+- After making several commits, how do you navigate to a previous commit and a subsequent commit? What is the difference between restore and reset? How do you revert to a commit that was forcefully deleted with hard reset?
+- How do you revert to a previous commit for a single file only?
+- How do you check the status of a branch, the log, and the complete log for all? How do you display each one in a line, in a graph, and how do you show the modifications of a specific commit?
+- What is meant by HEAD and detached HEAD? When does this error appear and how do you resolve it?
+- What is the difference between a branch and a commit?
+- How do you create a branch, display a list of branches, navigate between them, and delete a branch? How do you merge branches and resolve conflicts that arise? What is the sequential logic in merging branches? How do you show the modifications of a commit before merging? How do you compare between commit versions? How do you move a single commit from one branch to another and resolve any conflicts that arise?
+- How do you stop working on a branch and switch to another branch, then return to it to continue making modifications?
+- How do you tag a specific commit as a flag for a release?
+- How do you clean up files that are not tracked by Git?
+- What is GitHub?
+- How do you connect to GitHub if you initially created the project on your machine?
+- How do you connect to GitHub if you initially created the project on GitHub?
+- What is the method for connecting via HTTPS and SSH Token?
+- How do you push changes to GitHub?
+- How do you pull changes from GitHub?
+- Can you merge all branches at once, or how do you see it?
+- How do you delete a branch from GitHub?
+- What is a fork, when should I use it, and when should I use a pull request?
+- When working with a team and the project is on GitHub, how do you merge your changes into the main branch?
+- How do you create a README.md file correctly, what is its importance, and what does the .md extension mean?
+- How do you set up your GitHub profile?
